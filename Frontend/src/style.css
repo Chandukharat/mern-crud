@@ -1,0 +1,27 @@
+#box{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   flex-direction: column;
+   margin-right: 500px;
+   margin-left: 500px;
+}
+
+#dop{
+    height: 40px;
+    width: 280px;
+    margin-left: 500px;
+    margin-right: 60px;
+}
+
+#link{
+    border: solid black;
+    padding-top: 3px;
+    padding-left: 20px;
+    padding-bottom: 10px;
+    padding-right:20px ;
+    border-radius: 5px;
+    color:black;
+    background-color: darkgoldenrod;
+
+}
